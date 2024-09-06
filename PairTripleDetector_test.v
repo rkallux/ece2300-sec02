@@ -35,7 +35,7 @@ module Top();
   //----------------------------------------------------------------------
   // check
   //----------------------------------------------------------------------
-  // All tasks start at #1 after the rising edge of the clock. So we
+  // All tasks start at after the rising edge of the clock. So we
   // write the inputs #1 after the rising edge, and check the outputs #1
   // before the next rising edge.
 
